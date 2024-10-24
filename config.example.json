@@ -1,0 +1,9 @@
+{
+  "sleep": 3000,
+  "preserveState": false,
+  "players": [],
+  "devices": {
+    "outlets": [],
+    "dimmables": []
+  }
+}
