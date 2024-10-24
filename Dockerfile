@@ -27,8 +27,6 @@ RUN npm install
 
 COPY --from=builder  /usr/src/app/dist ./
 
-RUN ls -la 
-
 VOLUME [ "/data" ]
 
 EXPOSE 8080
